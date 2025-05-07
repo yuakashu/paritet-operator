@@ -24,15 +24,11 @@ title: Создание продажи на заказ (ПНЗ)
 
    ![](./sozdanie-pnz-2.png){width=474px height=379px}
 
-    В Базе другого города:
+   В Базе другого города:
 
 -   
 
    ![](./sozdanie-pnz-3.png){width=736px height=339px}
-
-   
-
-   
 
 Окно продажи:
 
